@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339088097099",
+    "project_id": "recipy-a6d8a",
+    "storage_bucket": "recipy-a6d8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339088097099:android:4a39037bcf8fffdf7872ce",
+        "android_client_info": {
+          "package_name": "com.example.recipy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiMkZhQTZKVyjCKB6H762HGSaEpNm1Bi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
